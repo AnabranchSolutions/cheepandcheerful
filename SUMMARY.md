@@ -1,4 +1,4 @@
 # Summary
 
-* Table of Contents
+* [Table of Contents](table_of_contents.md)
 
