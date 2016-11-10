@@ -3,8 +3,8 @@ title: Cheap and Cheerful Stream Restoration
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Some site description will go here
-url: "https://mattreimer.github.io/gitbook-test"
 baseurl: /gitbook-test
+url: https://mattreimer.github.io/gitbook-test/
 twitter_username: jekyllrb
 github_username:  jekyll
 
