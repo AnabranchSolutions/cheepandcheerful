@@ -2,18 +2,6 @@
 title: Using Beaver to Help Restore Rivers and Streams
 ---
 
-![Basin Creek](images\photos\BDA_basin_crk2.png)
-![Breached](images\photos\breached_BDAs_san_raf2.png),
-![Kimbell Creek](images\photos\kimbell creek (photo SMS).png),
-
-C:\Users\Admin\Desktop\Beaver Manual Website\.md files and 
-
-![Moving Beaver Basin2](images\Figures\photos\moving_beaver_basin2.png)
-![Moving Beaver Basin2](Figures\photos\moving_beaver_basin.png), 
-![Conceptual model](Figures\non_photos\conceptual model of beaver dams_from Pollock 2014.PNG)
-
-<!-- Don't know the layout yet-->
-
 Welcome to the Cheap and Cheerful Stream Restoration website. This website is a place where river restoration practitioners and land managers can learn about how to restore streams, rivers, riparia and floodplains by designing projects that  mimic and encourage the dam building activities of beaver.
 This website is for anyone interested in learning about how beaver can help restore streams and rivers. Furthermore it is designed with the river restoration practitioner in mind, therefore it focuses on the questions, assessments and design considerations that need to be addressed when undertaking a restoration project.
 
@@ -28,5 +16,16 @@ Lastly, there are powerpoint presentations and .pdfs available for download. Muc
 ### Final Note ###
 Our goal in creating this website is to promote an approach to river restoration that we believe has the potential to improve the health of thousands of miles of stream, due to its low cost, and technically undemanding practices. We do not think the approaches outlined here will work everywhere, and large portions of this site are dedicated to helping identify when and where cheap and cheerful projects are appropriate.
 
-
 Funding for this project was provided by the Utah Department of Wildland Resources, Utah State University and Anabranch Solutions.
+
+
+![Basin Creek](images\photos\BDA_basin_crk2.png)
+![Breached](images\photos\breached_BDAs_san_raf2.png),
+![Kimbell Creek](images\photos\kimbell creek (photo SMS).png),
+
+C:\Users\Admin\Desktop\Beaver Manual Website\.md files and 
+
+![Moving Beaver Basin2](images\photos\moving_beaver_basin2.png)
+![Moving Beaver Basin2](images\photos\moving_beaver_basin.png), 
+![Conceptual model](images\non_photos\conceptual model of beaver dams_from Pollock 2014.PNG)
+
