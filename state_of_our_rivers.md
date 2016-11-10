@@ -1,0 +1,15 @@
+---
+title: State of Our Rivers
+weight: 3
+---
+
+Human alteration of rivers and floodplains is ubiquitous and exerts significant influence on the ecological health and resilience of river ecosystems. In the contiguous United States it is estimated that of the 5.3 million km of streams, 79% have been impaired by human activities and 19% have been flooded by reservoirs, leaving only 2% unaffected by humans. Rivers can be impaired by a wide range of activities. Spatially discrete activities such as dam building, channelization and bank armoring are easy to recognize due to their immediate and obvious changes to water and sediment delivery as well as channel form. Diffuse, landscape scale activities such as agriculture, urbanization and grazing that do not necessarily occur immediately adjacent to waterways affect the delivery of water, sediment, nutrients and pollutants to river systems and can also cause degradation though the immediate link may be less visible.
+
+### What characterizes a degraded river? Form and Function ###
+Rivers are characterized by processes that vary across the landscape and result in a range of predictable forms, depending on their climatic, geologic and geomorphic setting. River function refers to the physical and ecological processes that contribute to healthy river ecosystems. Examples of such processes include sediment and nutrient retention, large woody debris recruitment and retention, a natural flow regime, biogeochemical nutrient cycling, and habitat creation and maintenance. Degradation can manifest as changes to channel form that impair critical physical and ecological processes, but also as chemical impairment where physical form is maintained but ecological processes are impaired by exceeding pollution, nutrient or temperature thresholds that impair biological processes. Restoring rivers therefore requires an understanding of the degree of degradation, the processes impaired and the causes of degradation. Common consequences of river degradation include simplified habitat, decreased fish productivity, decreased channel stability, channel-floodplain disconnectivity, decrease riparian area, and less diverse riparian and aquatic biological communities.
+
+## Why Restore Rivers? ##
+The decision to restore rivers is ultimately based on societal values that reflect the value of healthy river ecosystems and the species that rely on them, ecosystem services provided such as clean drinking water, flood protection and recreation, and the need to meet societal needs such as water needs of agriculture and protection of infrastructure. Maintaining and restoring healthy river ecosystems can prevent the loss of endangered and threatened species, such as salmon, increase flood protection by reducing flood peaks, maintain clean drinking water by promoting sediment and nutrient retention and cycling, and improve the recreation attributes of rivers that provide aesthetic and economic benefits to local communities.
+
+##### References #####
+1. Graf, W.L., 2001. Damage Control: Restoring the Physical Integrity of America’s Rivers. Annals of the Association of American Geographers, 91(1), pp 1-27.
