@@ -44,8 +44,6 @@ The valley bottom margin is the margin the divides the active channel and contem
 
 *Stream power*
 
-This is my new line
-
 Much previous work that has attempted to describe beaver dam viability/persistence has focused on channel gradient or discharge. While each of these is rooted in conceptually sound reasoning (e.g., beavers do not build dams on waterfalls, nor on the Colorado River in the Grand Canyon), beavers are capable of building dams on surprisingly steep streams and also on streams with a great range of discharge. Stream power is a variable commonly used in many geomorphic and hydraulic analyses that combines the effects of discharge and slope and is therefore able to better account for the combination of factors (discharge and slope) that affect beaver dam persistence/stability. Beaver are capable of building dams in steep drainages when discharge is low, a common occurrence in many mountainous headwater streams. The table below presents a simplified matrix of the relationship between channel gradient, discharge and beaver dam persistence.
 
 
