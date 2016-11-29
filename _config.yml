@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Some site description will go here
 baseurl: /gitbook-test/
-url: https://mattreimer.github.io/gitbook-test
+url: https://northarrowresearch.github.io/web_anabranch
 twitter_username: jekyllrb
 github_username:  jekyll
 
