@@ -1,7 +1,7 @@
 *   [Using Beaver to Help Restore Rivers and Streams]({{ site.url }}/)
 *   [Background Information]({{ site.url }}/background_information.html)
 *   [State of Our Rivers]({{ site.url }}/state_of_our_rivers.html)
-*   [Different Settings, Different Rivers]({{ site.url }}/different_settings_differnet_rivers.html)
+<!--*   [Different Settings, Different Rivers]({{ site.url }}/different_settings_differnet_rivers.html)-->
 *   [Complexity in River Ecosystems]({{ site.url }}/complexity.html)
 *   [Restoration with Beaver and Traditional River Restoration]({{ site.url }}/river_restoration.html)
 *   [Restoration Planning and Design]({{ site.url }}/restoration_planning.html)
