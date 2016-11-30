@@ -4,7 +4,7 @@ subtitle: "Terms and Concepts"
 weight: 2
 ---
 
-River restoration is an interdisciplinary practice that integrates hydrology, fluvial geomorphology, engineering, fisheries and ecology. In many instances those interested in restoration projects or capable of initiating them may not have an extensive background in these areas. The purpose of this section is to introduce some fundamental concepts and terms that are required in order to understand the approaches described throughout this site. To that end, in addition to a short definition of each of the following concepts, its relation to cheap and cheerful restoration work is briefly described.
+River restoration is an interdisciplinary practice that integrates physical, biological and social sciences. <!--It also involves diverse stakeholders and community participation. should have a section on something pertaining to the social/community aspect--> In many instances those interested in pursuing or encouraging restoration may not have an extensive background in these areas. The purpose of this section is to introduce some fundamental concepts and terms that are required in order to understand the approaches described throughout this site. This section focuses on the physical sciences, the "nuts and bolts," required to understand how rivers behave and respond to different actions. In addition to a short explanation of each of the following concepts, its relation to cheap and cheerful restoration work is briefly described.
 
 ### Concepts ###
 
