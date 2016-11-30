@@ -26,4 +26,4 @@ Funding for this project was provided by the Utah Department of Wildland Resourc
 C:\Users\Admin\Desktop\Beaver Manual Website\.md files and
 
 ![Moving Beaver Basin2](images\photos\moving_beaver_basin2.png)
-![Moving Beaver Basin2](images\photos\moving_beaver_basin.png),
+![Moving Beaver Basin2](images\photos\moving_beaver_basin.png)
