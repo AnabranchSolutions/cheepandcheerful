@@ -6,6 +6,9 @@ weight: 10
 ## What is a Beaver Dam Analog? ##
 A Beaver Dam Analog (BDA) is a man-made structure designed to mimic the form and function of a natural beaver dam. In general the goal of BDAs is to create the conditions that that promote physically complex streams that lead to ecological health. BDAs can also be used to increase the probability of successful beaver translocation by creating immediate deep water habitat that reduces the risk of predation which can decrease their desire to move from the desired restoration location. In general, the design and installation of BDA complexes is a simple, cost-effective, non-destructive approach to stream restoration that can influence a suite of hydraulic and hydrologic processes in order to achieve a range of common restoration goals.
 
+![Examples of Beaver Dam Analogs](images\photos\BDA_examples_collage2.png)
+
+
 ## What is a BDA Complex? ##
 
 A BDA complex (hereafter: complex) is typically composed of 2-8 individual BDAs that are designed to work together in order to achieve restoration at the reach scale. Restoration goals such as: improved habitat complexity, sediment retention, riparian quality and extent, elevated baseflows, increased fish survival and population growth are reach and watershed scale goals. Individual BDAs, while influential locally, must be pervasive enough (i.e., high density) and work together in order to achieve these goals. Therefore, while the following section contains information on the objectives, function and design considerations of individual structures, it is important to recognize the restoration goals are articulated at the complex and multi-complex scale, and it is these goals that determine the individual structure built.

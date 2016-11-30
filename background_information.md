@@ -22,14 +22,15 @@ Ecologists recognize the role of disturbance as critical to maintaining a mosaic
 
 *Flow Regime*
 
-The flow regime describes the characteristics of flow that influence the physical processes of erosion and deposition as well as the riparian and floodplain communities they support. The flow regime of any given river system is characterized by five attributes:
+The flow regime describes the characteristics of flow that influence the physical processes of erosion and deposition as well as the riparian and floodplain communities they support. The flow regime of any given river system is characterized by five attributes (Poff et al., 1997):
 
-1. Magnitude – The amount of water moving past a given point at any given time interval.
-2. Duration – The period of time associated with a specific flow condition.
+1. Magnitude – The volume of water moving past a given point at any given time interval.
+2. Duration – The period of time associated with a specific flow magnitude.
 3. Frequency – How often a flow of a given magnitude occurs.
 4. Timing/Predictability – The regularity of flows of a given magnitude (e.g., snowmelt driven peak annual flows)
-5. Rate of Change/Flashiness – How quickly flows change in magnitude?
+5. Rate of Change/Flashiness – How quickly flows change in magnitude.
 
+Examples of annual hydrographs
 *Geomorphic Units*
 
 Geomorphologists, hydrologists and stream ecologists all seek to describe riverine attributes that are important to restoration goals. Often, increasing pool-riffle sequences, or backwater habitats are important restoration goals. Geomorphic units are topographically defined features that make up all riverine and floodplain environments and are defined by their shape and location within the river corridor. Pools, riffles, steps, backwaters, point bars and floodplains are examples of geomorphic units. Surveying the assemblage of geomorphic units present along restoration reaches helps practitioners describe the current conditions, potential reference conditions, and desired restoration outcomes.
