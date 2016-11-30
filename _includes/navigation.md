@@ -1,5 +1,4 @@
 *   [Using Beaver to Help Restore Rivers and Streams]({{ site.url }}/)
-*   [Frequently Asked Questions]({{ site.url }}/faq.html)
 *   [Background Information]({{ site.url }}/background_information.html)
 *   [State of Our Rivers]({{ site.url }}/state_of_our_rivers.html)
 *   [Different Settings, Different Rivers]({{ site.url }}/different_settings_differnet_rivers.html)
@@ -13,5 +12,6 @@
 *   [BDA Complexes]({{ site.url }}/complexes.html)
 *   [Evaluating and Managing Risk]({{ site.url }}/evaluating_and_managing_risk.html)
 *   [Permitting]({{ site.url }}/permitting.html)
+*   [Frequently Asked Questions]({{ site.url }}/faq.html)
 *   [Resources and Links]({{ site.url }}/resources_and_links.html)
 *   [References]({{ site.url }}/references.html)
