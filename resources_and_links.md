@@ -10,3 +10,9 @@ weight: 19
 [Beaver management, beaver deceivers etc](http://www.beaversww.org/solving-problems/manage-flooding/)
 
 [Grouse Creek Restoration Project](pdf resources\Beaver-assisted Restoration_Tanners_RC_Proposal.pdf)
+
+<!--logging
+mining
+extirpation of beaver
+
+Life Hx of beaver
