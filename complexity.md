@@ -4,8 +4,8 @@ weight: 5
 ---
 
 ## What is complexity? ##
-Complexity refers to the physical heterogeneity, or diversity of habitats in river ecosystems. Complexity is a function of: number of channels (single thread vs. multi-thread) channel bank irregularities, channel cross section, channel planform, sinuosity, type and abundance of riparian and aquatic vegetation, large woody debris (LWD), geomorphic units (e.g., pools, riffles, backwaters). In general a stream that has been straightened, incised, lacks riparian vegetation and is dominated by plane-bed features would not be described as complex. By contrast a stream of comparable size, characterized by high sinuosity, multiple channels, abundant pools, riffles and backwaters, high substrate variability, significant LWD and a diverse and abundant riparian area would be considered complex.
-[Lacking complexity](images\photos\no complexity_trib to weber.JPG)
+Complexity refers to the physical heterogeneity, or diversity of habitats in river ecosystems. Complexity is influenced by: the number of channels (single thread vs. multi-thread) channel bank irregularities, channel cross section, channel planform, sinuosity, type and abundance of riparian and aquatic vegetation, large woody debris (LWD), and geomorphic units (e.g., pools, riffles, backwaters). In general a stream that has been straightened, incised, lacks riparian vegetation and is dominated by plane-bed features would not be described as complex. By contrast a stream of comparable size, characterized by high sinuosity, multiple channels, abundant pools, riffles and backwaters, high substrate variability, significant LWD and a diverse and abundant riparian area would be considered complex.
+![Lacking complexity](images\photos\no complexity_trib to weber.JPG)
 ![Complexity](images\photos\CO_complexity1.png)
 
 ## Why is it important? ##
