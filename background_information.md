@@ -11,7 +11,7 @@ River restoration is an interdisciplinary practice that integrates physical, bio
 *Stability, Dynamic Stability and Dynamic Equilibrium*
 
 River are dynamic systems whose form can change over time. Over short time scales (1-10 years)<!--reasonable?--> river form may appear unchanging, or static, such that an observer visiting a particular reach may easily recognize it to be the same, it’s form nor location having changed. Over longer time scales however, rivers may adjust to change in response to changes in climate, land use or other disturbances (e.g., the removal of beaver). An example of dynamic stability is the tendency of single thread meandering rivers to migrate laterally. Lateral migration is a combination of erosion that takes place on the outside of a meander bend and deposition that takes place on the point bar on the inside of the meander bend. In many cases the net sediment delivery from such reaches is zero. Evidence of past migrations is easily viewed in satellite imagery available from such platforms as Google Earth or Google Maps. ![Rio Negro meadners](images\photos\Rio_Negro_meanders_lateral_migration.JPG)
- ###### [See original NASA satellite imagery](http://visibleearth.nasa.gov/view.php?id=42640)
+[See original NASA satellite imagery](http://visibleearth.nasa.gov/view.php?id=42640)
 
 Photo of the Rio Negro, Argentina taken from the International Space Station. The floodplain, roughly 10 km wide, preserves the record of historic location of the river in former meander bends.
 
@@ -54,11 +54,11 @@ Much previous work that has attempted to describe beaver dam viability/persisten
 
 Figure 1 Simplified matrix showing beaver dam persistence as a function of both slope and discharge. In assessments that rely on slope and gradient separately only the category in red would be predicted to have beaver dams. Using stream power allows for a more nuanced prediction that accounts for the variability streams and rivers.
 
-Stream power is defined as:
+<!--Stream power is defined as:
 Ω=γQS
 Where: 		γ is the specific weight of water (9800 N/m3)
 		Q is discharge (m3/s)
-		S is slope (m/m)
+		S is slope (m/m)-->
 
 
 *Natural Range of Variability*
@@ -69,7 +69,7 @@ Rivers tend to have characteristic forms based on the climatic, geologic and geo
 
 A river can be classified as degraded if it is not possess by the physical and ecological processes that characterize its unaltered state. However such a state may also be ‘stable,’ such that the river is unlikely to change its condition in the absence of external disturbance or restoration. In many cases 'stability' may also be defined as a lack of sediment delivery from the reach. In such cases restoration practitioners need to identify the historic condition and determine an appropriate goal for restoration. The goal may be a return to the historic condition or a new condition based on current constraints.
 
-[Alternative stable states and restoration in Yellowstone](link to papers)
+<!--[Alternative stable states and restoration in Yellowstone](link to papers)-->
 
 *Channel Incision and Recovery*
 
@@ -83,5 +83,5 @@ It is important to recognize that in both channel evolution models the stream ev
 
 *Source, Transfer and Accumulation Zones- General basin trends*
 <!-- this could be a lot of information: RCC, Schumm, Flood Pulse, Process Zones etc etc etc. what is useful, what is too much?-->
-Within a basin there are a number of processes and attributes that exhibit a general trend from headwaters to mouth. Among these are trends in gradient, channel width, channel substrate, importance of floodplains, stream power, riparian communities and temperature. Understanding the location of potential restoration reach within the larger context of a watershed helps 1) prioritize restoration treatments 2) design appropriate restoration and 3) develop realistic objectives and expectations.
-See a big figure.
+Within a basin there are a number of processes and attributes that exhibit a general trend from headwaters to mouth. Among these are trends in gradient, channel width, channel substrate, channel-floodplain interactions, stream power, riparian communities and temperature. Understanding the location of potential restoration reach within the larger context of a watershed helps 1) prioritize restoration treatments 2) design appropriate restoration and 3) develop realistic objectives and expectations.
+<!--See a big figure.-->
