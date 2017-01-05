@@ -6,6 +6,7 @@ weight: 2
 
 River restoration is an interdisciplinary practice that integrates physical, biological and social sciences. <!--It also involves diverse stakeholders and community participation. should have a section on something pertaining to the social/community aspect--> In many instances those interested in pursuing or encouraging restoration may not have an extensive background in these areas. The purpose of this section is to introduce some fundamental concepts and terms that are required in order to understand the approaches described throughout this site. This section focuses on the physical sciences, the "nuts and bolts," required to understand how rivers behave and respond to different actions. In addition to a short explanation of each of the following concepts, its relation to cheap and cheerful restoration work is briefly described.
 
+There is a rich and extensive literature on the processes that shape and are shaped by river and floodplain ecosystems. For more information readers are directed to the [References](references.md) page.
 ### Concepts ###
 
 *Stability, Dynamic Stability and Dynamic Equilibrium*
