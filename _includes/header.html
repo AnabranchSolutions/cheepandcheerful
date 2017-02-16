@@ -2,10 +2,15 @@
   <h1>{{ site.title }}</h1>
   <p>{{ site.description }}</p>
 
+	<div id="vertical-nav">
   {% capture my-nav %}{% include navigation.md %}{% endcapture %}
 {{ my-nav | markdownify }}
+	</div>
 
   <h3>Useful Links</h3>
+	<div id="vertical-nav">
   {% capture my-include %}{% include links.md %}{% endcapture %}
-{{ my-include | markdownify }}
+  {{ my-include | markdownify }}
+  	</div>
+
 </header>
