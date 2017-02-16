@@ -15,12 +15,6 @@
 
   <body>
 
-    <div class="top-bar">
-      <div class="top-bar-right horizontal-nav">
-        {% capture my-nav %}{% include navigation.md %}{% endcapture %}{{ my-nav | markdownify }}
-      </div>
-    </div>
-
     {{ content }}
 
     {% include footer.html %}

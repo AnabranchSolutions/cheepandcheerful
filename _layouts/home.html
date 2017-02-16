@@ -2,10 +2,16 @@
 layout: default
 ---
 
-<header class="text-center callout large">
-  <h1>{{ site.title }}</h1>
-  <h3 class="subheader">{{ site.description }}</h3> 
+<header>
+  {% include nav.html %}
+  <div class="text-center callout large home">
+    <h1>{{ site.title }}</h1>
+    {% if site.description %}
+      <h3 class="post-subtitle subheader">{{ site.description }}</h3>   
+    {% endif %}
+  </div>
 </header>
+
 
 <div class="row">
   <div class="large-12 columns">
