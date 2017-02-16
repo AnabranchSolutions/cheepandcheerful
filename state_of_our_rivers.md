@@ -3,7 +3,7 @@ title: State of Our Rivers
 weight: 3
 ---
 
-<img class="imgleft" src="{{site.baseurl}}/images/photos/glen canyon dam.JPG"/>
+<img class="imgleft" src="{{site.baseurl}}/images/photos/glen_canyon_dam.JPG"/>
 
 Human alteration of rivers and floodplains is ubiquitous and exerts significant influence on the ecological health and resilience of river ecosystems. In the contiguous United States it is estimated that of the 5.3 million km of streams, 79% have been impaired by human activities and 19% have been flooded by reservoirs, leaving only 2% unaffected by humans (Abell et al., 2000; Graf, 2001; Wohl et al., 2007). Rivers can be impaired by a wide range of activities. Spatially discrete activities such as dam building, channelization and bank armoring are easy to recognize due to their immediate and obvious changes to water and sediment delivery as well as channel form. Diffuse, landscape scale activities such as agriculture, urbanization and grazing that do not necessarily occur immediately adjacent to waterways affect the delivery of water, sediment, nutrients and pollutants to river systems and can also cause degradation though the immediate link may be less visible.
 

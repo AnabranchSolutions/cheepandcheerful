@@ -8,13 +8,24 @@ weight: 5
 Complexity refers to the physical heterogeneity, or diversity of habitats in river ecosystems. Complexity is influenced by: the number of channels (single thread vs. multi-thread) channel bank irregularities, channel cross section, channel planform, sinuosity, type and abundance of riparian and aquatic vegetation, large woody debris (LWD), and geomorphic units (e.g., pools, riffles, backwaters). In general a stream that has been straightened, incised, lacks riparian vegetation and is dominated by plane-bed features would not be described as complex. By contrast a stream of comparable size, characterized by high sinuosity, multiple channels, abundant pools, riffles and backwaters, high substrate variability, significant LWD and a diverse and abundant riparian area would be considered complex.
 
 <div class="row small-up-1 medium-up-2 large-up-2">
-  <div class="column column-block">
-  	<img src="{{ site.baseurl}}/images/photos/straight channel.JPG"/>
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl}}/images/photos/straight_channel.JPG"/>
+      <div class="card-section">
+	      <h4>Lacking Complexity</h4>
+	   </div>
+	  </div>
 	</div>
-	<div class="column column-block">
-		<img src="{{ site.baseurl}}/images/photos/CO_complexity1.png"/>
-	</div>
+  <div class="column">
+    <div class="card">
+      <img src="{{ site.baseurl}}/images/photos/CO_complexity1.png"/>
+      <div class="card-section">
+	      <h4>Complexity!</h4>
+	   </div>
+	  </div>
+	</div>  
 </div>
+
 
 ## Why is it important?
 

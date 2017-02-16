@@ -19,11 +19,22 @@ Our goal in creating this website is to promote an approach to river restoration
 
 Funding for this project was provided by the Utah Department of Wildland Resources, Utah State University and Anabranch Solutions.
 
+<div class="row small-up-2 medium-up-3 large-up-4">
+	<div class="column column-block">
+		<img src="{{site.baseurl}}/images/photos/BDA_basin_crk2.png" title="Basin Creek"/>
+	</div>
+	<div class="column column-block">
+		<img src="{{site.baseurl}}/images/photos/breached_BDAs_san_raf2.png" title="Breached"/>,
+	</div>
+	<div class="column column-block">
+		<img src="{{site.baseurl}}/images/photos/kimbell_creek_photo_SMS.png" title="Kimbell Creek"/>
+	</div>
+	<div class="column column-block">
+		<img src="{{site.baseurl}}/images/photos/moving_beaver_basin2.png" title="Moving Beaver Basin2"/>
+	</div>
+	<div class="column column-block">
+		<img src="{{site.baseurl}}/images/photos/moving_beaver_basin.png" title="Moving Beaver Basin2"/>
+	</div>
+</div>
 
-![Basin Creek](images\photos\BDA_basin_crk2.png)
-![Breached](images\photos\breached_BDAs_san_raf2.png),
-![Kimbell Creek](images\photos\kimbell creek (photo SMS).png),
 
-
-![Moving Beaver Basin2](images\photos\moving_beaver_basin2.png)
-![Moving Beaver Basin2](images\photos\moving_beaver_basin.png)
