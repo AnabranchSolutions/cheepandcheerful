@@ -1,5 +1,6 @@
 ---
 title: Using Beaver to Help Restore Rivers and Streams
+layout: home
 ---
 
 Welcome to the Cheap and Cheerful Stream Restoration website. This website provides resources for those interested in learning about how to restore streams, rivers, riparian areas and floodplains by designing projects that  mimic and encourage the dam building activities of beaver.
@@ -23,7 +24,6 @@ Funding for this project was provided by the Utah Department of Wildland Resourc
 ![Breached](images\photos\breached_BDAs_san_raf2.png),
 ![Kimbell Creek](images\photos\kimbell creek (photo SMS).png),
 
-C:\Users\Admin\Desktop\Beaver Manual Website\.md files and
 
 ![Moving Beaver Basin2](images\photos\moving_beaver_basin2.png)
 ![Moving Beaver Basin2](images\photos\moving_beaver_basin.png)

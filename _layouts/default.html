@@ -4,7 +4,7 @@
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Minimal by Steve Smith</title>
+      <title>{{ site.title }}</title>
 
       <link rel="stylesheet" href="css/app.css">
       <meta name="viewport" content="width=device-width">
@@ -14,13 +14,17 @@
   </head>
 
   <body>
-    <div class="row">
-      <div class="large-12 columns">
-    {% include header.html %}
+
+    <div class="top-bar">
+      <div class="top-bar-right horizontal-nav">
+        {% capture my-nav %}{% include navigation.md %}{% endcapture %}{{ my-nav | markdownify }}
+      </div>
+    </div>
+
     {{ content }}
+
     {% include footer.html %}
-    </div>
-    </div>
+
     <script src="js/jquery.min.js"></script>
     <script src="js/foundation.min.js"></script>
     <script src="js/app.js"></script>
