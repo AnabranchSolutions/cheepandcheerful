@@ -6,10 +6,27 @@
 @charset 'utf-8';
 $baseurl: "{{ site.baseurl }}";
 
+// Extra fonts we bring in form google
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
 // This grabs all our foundation settings
 @import '../../../css/settings';
 
+// SECTION is the tag denoting where all the 
+// content is. It's how we style the article content
+// without styling the header, menu etc.
 section {
+  h2 {
+    color: #333333;
+    font-family: 'Raleway', serif;
+    font-weight: 400;
+  }
+  h3{
+    border-bottom: 1px solid black;
+  }
+
   .imgleft{
     float: left;
     display: block;
@@ -37,7 +54,7 @@ section {
   }
 }
 
-
+// The Header 
 header { 
   text-shadow: 3px 3px 3px rgba(0,0,0,0.7);
   background-image: url($baseurl + "/images/theme/home.png");
@@ -53,6 +70,7 @@ header {
   }
   h3.subheader {
     color: #eeeeee;
+
   }
   h4.subheader {
     font-size: 1.2rem;

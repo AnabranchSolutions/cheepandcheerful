@@ -8,7 +8,7 @@ River restoration is an interdisciplinary practice that integrates physical, bio
 
 There is a rich and extensive literature on the processes that shape and are shaped by river and floodplain ecosystems. For more information readers are directed to the [References](references.md) page.
 
-### Concepts ###
+## Concepts
 
 ### Equilibrium and Natural Range of Variability
 
@@ -32,11 +32,11 @@ Ecologists recognize the role of disturbance as critical to maintaining a mosaic
 
 The flow regime describes the characteristics of flow that influence the physical processes of erosion and deposition as well as the riparian and floodplain communities they support. The flow regime of any given river system is characterized by five attributes (Poff et al., 1997):
 
-1. Magnitude – The volume of water moving past a given point at any given time interval.
-2. Duration – The period of time associated with a specific flow magnitude.
-3. Frequency – How often a flow of a given magnitude occurs.
-4. Timing/Predictability – The regularity of flows of a given magnitude (e.g., snowmelt driven peak annual flows)
-5. Rate of Change/Flashiness – How quickly flows change in magnitude.
+1. **Magnitude** – The volume of water moving past a given point at any given time interval.
+2. **Duration** – The period of time associated with a specific flow magnitude.
+3. **Frequency** – How often a flow of a given magnitude occurs.
+4. **Timing/Predictability** – The regularity of flows of a given magnitude (e.g., snowmelt driven peak annual flows)
+5. **Rate of Change/Flashiness** – How quickly flows change in magnitude.
 
 Designing appropriate restoration projects depends on understanding how the natural flow regime and/or altered flow regime will interact with restoration. In many cases, such as below dams, an altered flow regime is responsible for the degradation of quality habitat, by limiting peak flows, decreasing sediment delivery and altering the timing and duration of flows of a given magnitude, though special attention is often paid to peak discharges.
 
@@ -50,7 +50,7 @@ Structural elements are discrete elements that exert a direct influence on strea
 
 ### Valley margin
 
-The valley margin is the margin between a bedrock hillslope and the alluvial sediments that make up the valley floor. The valley floor can be composed of contemporary floodplains, historic floodplains (terraces) and alluvial fans.  
+The valley margin is the margin between a bedrock hillslope and the alluvial sediments that make up the valley floor. The valley floor can be composed of contemporary floodplains, historic floodplains (terraces) and alluvial fans.
 
 ### Valley bottom margin
 
@@ -60,18 +60,27 @@ The valley bottom margin is the margin the divides the active channel and contem
 
 Stream power is a measure of the amount of energy flow exerts on the channel bed and banks. It can be used to help predict how a river will behave in response to restoration practices, or whether or not certain structural elements, such as LWD or beaver dams will persist during high flows.
 
-It is defined as:
+**It is defined as:**
+
+```
 Stream power = Density (H2O)* g* Slope * discharge
+```
 
 such that rivers with higher slopes will be characterized by higher stream power, and for any given river, stream power will be higher during higher flows.
 
 It is important to note that stream power changes from the headwaters to the mouth. In other words, stream power is measured at a single point along any given river.
 
-<!--Stream power is defined as:
-Ω=γQS
-Where: 		γ is the specific weight of water (9800 N/m3)
-		Q is discharge (m3/s)
-		S is slope (m/m)-->
+**Stream power is defined as:**
+
+```
+Ω = γQS
+```
+
+**Where**:
+
+* γ is the specific weight of water (9800 N/m3)
+* Q is discharge (m3/s)
+* S is slope (m/m)-->
 
 
 ### Natural Range of Variability
@@ -84,6 +93,7 @@ A river can be classified as degraded if it does not possess by the physical and
 For an example of alternative stale states and river restoration see:
 Wolf et al
 Marshall et al-double check these
+
 <!--[Alternative stable states and restoration in Yellowstone](link to papers)-->
 
 ### Channel Incision and Recovery
@@ -99,6 +109,9 @@ It is important to recognize that in both channel evolution models the stream ev
 
 
 ### Source, Transfer and Accumulation Zones- General basin trends
+
 <!-- this could be a lot of information: RCC, Schumm, Flood Pulse, Process Zones etc etc etc. what is useful, what is too much?-->
+
 Within a basin there are a number of processes and attributes that exhibit a general trend from headwaters to mouth. Among these are trends in gradient, channel width, channel substrate, channel-floodplain interactions, stream power, riparian communities and temperature. Understanding the location of potential restoration reach within the larger context of a watershed helps 1) prioritize restoration treatments 2) design appropriate restoration and 3) develop realistic objectives and expectations.
+
 <!--See a big figure.-->

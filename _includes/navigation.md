@@ -4,7 +4,7 @@
 	*   [Frequently Asked Questions]({{ site.baseurl }}/faq.html)
 	*   [Resources and Links]({{ site.baseurl }}/resources_and_links.html)
 	*   [References]({{ site.baseurl }}/references.html)
-* [Contact]()
+* [Contact]({{ site.baseurl }}/contact.html)
 * [Solutions]()
 	*   [Using Beaver to Help Restore Rivers and Streams]({{ site.baseurl }}/)
 	*   [State of Our Rivers]({{ site.baseurl }}/state_of_our_rivers.html)
