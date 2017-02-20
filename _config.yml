@@ -3,7 +3,7 @@ title: Cheap and Cheerful Stream Restoration
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Some site description will go here
-baseurl: /web_anabranch
+baseurl: /
 url: http://www.cheapcheerfulrestoration.com
 twitter_username: jekyllrb
 github_username:  jekyll
