@@ -10,7 +10,7 @@ Complexity refers to the physical heterogeneity, or diversity of habitats in riv
 <div class="row small-up-1 medium-up-2 large-up-2">
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl}}/images/photos/straight_channel.JPG"/>
+      <img src="{{ site.siteurl}}/images/photos/straight_channel.JPG"/>
       <div class="card-section">
 	      <h4>Lacking Complexity</h4>
 	   </div>
@@ -18,7 +18,7 @@ Complexity refers to the physical heterogeneity, or diversity of habitats in riv
 	</div>
   <div class="column">
     <div class="card">
-      <img src="{{ site.baseurl}}/images/photos/CO_complexity1.png"/>
+      <img src="{{ site.siteurl}}/images/photos/CO_complexity1.png"/>
       <div class="card-section">
 	      <h4>Complexity!</h4>
 	   </div>

@@ -21,19 +21,19 @@ Funding for this project was provided by the Utah Department of Wildland Resourc
 
 <div class="row small-up-2 medium-up-3 large-up-4">
 	<div class="column column-block">
-		<img src="{{site.baseurl}}/images/photos/BDA_basin_crk2.png" title="Basin Creek"/>
+		<img src="{{site.siteurl}}/images/photos/BDA_basin_crk2.png" title="Basin Creek"/>
 	</div>
 	<div class="column column-block">
-		<img src="{{site.baseurl}}/images/photos/breached_BDAs_san_raf2.png" title="Breached"/>,
+		<img src="{{site.siteurl}}/images/photos/breached_BDAs_san_raf2.png" title="Breached"/>,
 	</div>
 	<div class="column column-block">
-		<img src="{{site.baseurl}}/images/photos/kimbell_creek_photo_SMS.png" title="Kimbell Creek"/>
+		<img src="{{site.siteurl}}/images/photos/kimbell_creek_photo_SMS.png" title="Kimbell Creek"/>
 	</div>
 	<div class="column column-block">
-		<img src="{{site.baseurl}}/images/photos/moving_beaver_basin2.png" title="Moving Beaver Basin2"/>
+		<img src="{{site.siteurl}}/images/photos/moving_beaver_basin2.png" title="Moving Beaver Basin2"/>
 	</div>
 	<div class="column column-block">
-		<img src="{{site.baseurl}}/images/photos/moving_beaver_basin.png" title="Moving Beaver Basin2"/>
+		<img src="{{site.siteurl}}/images/photos/moving_beaver_basin.png" title="Moving Beaver Basin2"/>
 	</div>
 </div>
 
