@@ -3,7 +3,7 @@ title: Using Beaver to Help Restore Rivers and Streams
 layout: home
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="{{site.url}}/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 Welcome to the Cheap and Cheerful Stream Restoration website. This website provides resources for those interested in learning about how to restore streams, rivers, riparian areas and floodplains by designing projects that  mimic and encourage the dam building activities of beaver.
 It is designed with the river restoration practitioner in mind, therefore it focuses on the questions, assessments and design considerations that need to be addressed when undertaking any restoration project.
