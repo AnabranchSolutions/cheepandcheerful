@@ -1,5 +1,7 @@
 # Web Anabranch
 
+This site is a draft of the cheap and cheerful stream restoration design manual. The site is [http://www.cheapcheerfulrestoration.com/](http://www.cheapcheerfulrestoration.com/)
+
 This is just a quick test of the Gitbook Engine
 
 This site uses [Jekyll](https://jekyllrb.com/) to render markdown and Github Pages to host it.  
